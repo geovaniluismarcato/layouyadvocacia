@@ -1,0 +1,409 @@
+#menu {
+  background-color:#fff !important;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  transition: all 500ms linear;
+}
+#menu.ativo {
+  background-color:#d8dbde!important;
+}
+
+.teste{
+  margin-bottom: 70px;;
+}
+
+
+
+
+.botao{
+  color:#000;
+  
+}
+
+.botao:hover{
+  background-color: #e8bf5d;
+
+}
+
+.bg-adv{
+  padding: 0px;
+  mar
+}
+
+/**about us**/
+.cont-about{
+  margin-top: 40px;
+  margin-bottom:40px;
+}
+.txt-about h4{
+  color: #000;
+  font-weight:bolder;
+}
+
+.txt-about h5{
+  color: #666666;
+}
+
+.txt-about{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.txt-data h5{
+  color: #000;
+  font-weight: bolder;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.txt-desc h6{
+  color: #666666;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.txt-title h5{
+  color: #000;
+  font-weight: bolder;
+}
+
+/**area**/
+.bg-area{
+  background-color: #111111;
+}
+
+
+.vinheta-area{
+  border-left: 2px solid #e8bf5d ;
+  margin-top: 100px;
+  height: 100%;
+}
+
+.vinheta-area h4{
+  color: #ffff;
+  padding-bottom: 20px;
+}
+
+.vinheta-area h6{
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.cont-serv{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.txt-serv h5{
+  color: #fff;
+  font-weight: bolder;
+  padding-bottom: 10px;
+}
+
+.txt-serv h6{
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+
+
+.txt-equipe h4{
+  color: #000;
+}
+
+.txt-equipe h6{
+  color: #747474;
+}
+
+.bg-equipe{
+  margin-top: 75px;
+}
+
+.txt-person h5{
+  color: #000;
+  margin-top: 15px;
+}
+
+.txt-person{
+  color: #666666;
+}
+
+.bg-equipe{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/** CLIENTE **/
+
+.bg-cliente{
+  background-image: url(../../assets/images/bg-cliente.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height:750px;
+  width: 100%;
+}
+
+.txt-vinheta-cliente{
+  border-left: 2px solid #e8bf5d ;
+  margin-top: 100px;
+  height: 100%;
+}
+
+.txt-vinheta-cliente h4{
+  color: #fff;
+  font-weight: bolder;
+}
+
+.txt-vinheta-cliente h6{
+  color: #666666;
+}
+
+
+.img-client{
+  background-color:  #e8bf5d;
+  display: block;
+  padding-left: 0px;
+  padding-right: 21px;
+  padding-bottom: 20px;
+  margin-top: 100px;
+}
+
+.imagem-cliente{
+  margin-top: -20px;
+}
+
+.txt-client h5{
+  color: #fff;
+}
+.txt-client h6{
+  color: #e8bf5d;
+}
+
+.name{
+  padding-top: 25px;
+}
+.txt-client{
+  margin-top: 100px;
+  padding-left: 50px;
+}
+
+
+/** notice **/
+.amarra-notice{
+  margin-top: 100px;
+}
+
+.cont-notice{
+  margin-bottom: 80px;
+  border-bottom:3px solid #e8bf5d ;
+}
+
+.txt-notice h5{
+  color: #111111;
+  font-weight: bolder;
+  margin-top: 15px;
+}
+
+.txt-escritor {
+  color: #000;
+}
+
+.txt-noticia{
+  color: #666666;
+  text-align: justify;
+}
+
+.txt-notice:hover .txt-noticia{
+  color: #e8bf5d;
+  text-decoration: none !important;
+  transition: all 100ms linear;
+}
+
+.txt-notice:hover .cont-notice{
+  border-bottom: 3px solid #111111 ;
+
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+}
+
+
+.bg-perg{
+  background-color: #111111;
+}
+
+.card-header{
+  background-color: #111111;
+  padding-left: 0px;
+  
+}
+
+.btn-card{
+  border: none;
+  border-radius: 0px;
+  background-color: transparent;
+}
+
+.btn-link{
+  text-decoration: none !important;
+  color: #fff;
+}
+
+.btn-link:hover{
+  text-decoration: none;
+  color: #e8bf5d;
+  border-color: transparent !important;
+
+}
+
+
+.card-body{
+  background-color: #e8bf5d;
+  color: #111111;
+}
+
+.btn-link:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.cont-acord{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/**CONTATO**/
+.txt-area{
+  width: 100%;
+}
+
+.cont-form{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.btn-send {
+  background-color: #e8bf5d;
+  border-radius: 5px;
+  border: 1px solid #111111;
+  color: #000;
+  width: 200px;
+  height: 40px;
+}
+
+.btn-send:hover {
+  background-color: #111111;
+  border-radius: 5px;
+  border:2px solid #e8bf5d;
+  color:#e8bf5d;
+  width: 200px;
+  height: 40px;
+}
+
+
+
+.btn-send:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  
+}
+
+/**rodapé**/
+
+.bg-footer{
+  background-color: #111111;
+  width: 100%;
+  height: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 989px) {
+  .img-client{
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 575px){
+  .txt-person img{
+    width: 100%;
+  }
+
+  .img-client{
+    background-color: transparent;
+  }
+
+  .img-client img{
+    width: 100%;
+  }
+
+  .txt-client{
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+
+  .txt-notice img{
+    width: 100%;
+  }
+}
+
+
+@media only screen and (max-width: 320px) {
+
+  .vinheta-area{
+    border-left: 4px solid #e8bf5d;
+  }
+
+  .txt-vinheta-cliente{
+    border-left: 4px solid #e8bf5d;
+  }
+
+  .txt-client{
+    padding-left: 0px;
+  }
+
+  .txt-client h5{
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 731px) {
+
+  .botao a{
+    font-size: 15px;
+  }
+  
+
+
+
+}
+
+@media only screen and (max-width: 375px) {
+
+  .txt-client{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .txt-client h5{
+    font-size: 15px;
+    text-align: justify;
+  }
+  
+  .amarra-notice{
+    margin-top: 50px;
+  }
+  
+  .cont-notice{
+    margin-bottom: 40px;
+  }
+
+}
